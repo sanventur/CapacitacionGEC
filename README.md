@@ -1,0 +1,2 @@
+# CapacitacionGEC
+Cursos Virtuales GEC
